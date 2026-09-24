@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/samples/">
+    <Project Path="samples/FastExcel.SampleConsole/FastExcel.SampleConsole.csproj" />
+  </Folder>
+  <Folder Name="/src/">
+    <Project Path="src/FastExcel.Abstractions/FastExcel.Abstractions.csproj" />
+    <Project Path="src/FastExcel.Core/FastExcel.Core.csproj" />
+    <Project Path="src/FastExcel.DependencyInjection/FastExcel.DependencyInjection.csproj" />
+  </Folder>
+</Solution>
